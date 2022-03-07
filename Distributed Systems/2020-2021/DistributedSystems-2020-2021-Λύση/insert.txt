@@ -1,0 +1,500 @@
+Like a Rolling Stone, 1
+Satisfaction, 2
+Imagine, 3
+What's Going On, 4
+Respect, 5
+Good Vibrations, 6
+Johnny B. Goode, 7
+Hey Jude, 8
+Smells Like Teen Spirit, 9
+What'd I Say, 10
+My Generation, 11
+A Change Is Gonna Come, 12
+Yesterday, 13
+Blowin' in the Wind, 14
+London Calling, 15
+I Want to Hold Your Hand, 16
+Purple Haze, 17
+Maybellene, 18
+Hound Dog, 19
+Let It Be, 20
+Born to Run, 21
+Be My Baby, 22
+In My Life, 23
+People Get Ready, 24
+God Only Knows, 25
+A Day in the Life, 26
+Layla, 27
+(Sittin on) the Dock of the Bay, 28
+Help!, 29
+I Walk the Line, 30
+Stairway To Heaven, 31
+Sympathy for the Devil, 32
+River Deep - Mountain High, 33
+You've Lost That Lovin' Feelin', 34
+Light My Fire, 35
+One, 36
+No Woman, 37
+Gimme Shelter, 38
+That'll Be the Day, 39
+Dancing in the Street, 40
+The Weight, 41
+Waterloo Sunset, 42
+Tutti-Frutti, 43
+Georgia on My Mind, 44
+Heartbreak Hotel, 45
+Heroes, 46
+Bridge Over Troubled Water, 47
+All Along the Watchtower, 48
+Hotel California, 49
+The Tracks of My Tears, 50
+The Message, 51
+When Doves Cry, 52
+Anarchy in the U.K., 53
+When a Man Loves a Woman, 54
+Louie Louie, 55
+Long Tall Sally, 56
+Whiter Shade of Pale, 57
+Billie Jean, 58
+The Times They Are A-Changin', 59
+Let's Stay Together, 60
+Whole Lotta Shakin' Goin On, 61
+Bo Diddley, 62
+For What It's Worth, 63
+She Loves You, 64
+Sunshine of Your Love, 65
+Redemption Song, 66
+Jailhouse Rock, 67
+Tangled Up in Blue, 68
+Crying, 69
+Walk On By, 70
+California Girls, 71
+Papa's Got a Brand New Bag, 72
+Summertime Blues, 73
+Superstition, 74
+Whole Lotta Love, 75
+Strawberry Fields Forever, 76
+Mystery Train, 77
+I Got You (I Feel Good), 78
+Mr. Tambourine Man, 79
+I Heard It Through the Grapevine, 80
+Blueberry Hill, 81
+You Really Got Me, 82
+Norwegian Wood (This Bird Has Flown), 83
+Every Breath You Take, 84
+Crazy, 85
+Thunder Road, 86
+Ring of Fire, 87
+My Girl, 88
+California Dreamin', 89
+In the Still of the Nite, 90
+Suspicious Minds, 91
+Blitzkrieg Bop, 92
+I Still Haven't Found What I'm Looking For, 93
+Good Golly, 94
+Blue Suede Shoes, 95
+Great Balls of Fire, 96
+Roll Over Beethoven, 97
+Love and Happiness, 98
+Fortunate Son, 99
+You Can't Always Get What You Want, 100
+Voodoo Child (Slight Return), 101
+Be-Bop-A-Lula, 102
+Hot Stuff, 103
+Living for the City, 104
+The Boxer, 105
+Mr. Tambourine Man, 106
+Not Fade Away, 107
+Little Red Corvette, 108
+Brown Eyed Girl, 109
+I've Been Loving You Too Long (to Stop Now), 110
+I'm So Lonesome I Could Cry, 111
+That's All Right, 112
+Up on the Roof, 113
+Da Doo Ron Ron ), 114
+You Send Me, 115
+Honky Tonk Women, 116
+Take Me to the River , 117
+Shout (Parts 1 and 2)], 118
+Go Your Own Way, 119
+I Want You Back, 120
+Stand By Me, 121
+House of the Rising Sun, 122
+Will You Love Me Tomorrow, 123
+Shake, 124
+Changes, 125
+Rock & Roll Music, 126
+Born to Be Wild, 127
+Maggie May, 128
+With or Without You, 129
+Who Do You Love, 130
+Won't Get Fooled Again, 131
+In the Midnight Hour, 132
+While My Guitar Gently Weeps, 133
+Your Song, 134
+Eleanor Rigby, 135
+Family Affair, 136
+I Saw Her Standing There, 137
+Kashmir, 138
+All I Have to Do Is Dream, 139
+Please, 140
+Purple Rain, 141
+I Wanna Be Sedated, 142
+Everyday People, 143
+Rock Lobster, 144
+Lust for Life, 145
+Me and Bobby McGee, 146
+Cathy's Clown, 147
+Eight Miles High, 148
+Earth Angel, 149
+Foxey Lady, 150
+A Hard Day's Night, 151
+Rave On, 152
+Proud Mary, 153
+The Sounds of Silence, 154
+I Only Have Eyes for You, 155
+(We're Gonna) Rock Around the Clock, 156
+I'm Waiting for the Man, 157
+Bring the Noise, 158
+I Can't Stop Loving You, 159
+Nothing Compares 2 U, 160
+Bohemian Rhapsody, 161
+Folsom Prison Blues, 162
+Fast Car, 163
+Lose Yourself , 164
+Let's Get It On, 165
+Papa Was a Rollin' Stone, 166
+Losing My Religion, 167
+Both Sides Now, 168
+Dancing Queen, 169
+Dream On, 170
+God Save the Queen, 171
+Paint It, 172
+I Fought the Law, 173
+Don't Worry Baby, 174
+Free Fallin', 175
+September Gurls, 176
+Love Will Tear Us Apart, 177
+Hey Ya!, 178
+Green Onions, 179
+Save the Last Dance for Me, 180
+The Thrill Is Gone, 181
+Please Please Me, 182
+Desolation Row, 183
+I Never Loved a Man (The Way I Love You), 184
+Back in Black, 185
+Who'll Stop the Rain, 186
+Stayin' Alive, 187
+Knocking on Heaven's Door, 188
+Free Bird, 189
+Wichita Lineman, 190
+There Goes My Baby, 191
+Peggy Sue, 192
+Maybe, 193
+Sweet Child O' Mine, 194
+Don't Be Cruel, 195
+Hey Joe, 196
+Flash Light, 197
+Loser, 198
+Bizarre Love Triangle, 199
+Come Together, 200
+Positively 4th Street, 201
+Try a Little Tenderness, 202
+Lean On Me, 203
+Reach Out, 204
+Bye Bye Love, 205
+Gloria, 206
+In My Room, 207
+96 Tears, 208
+Caroline, 209
+1999, 210
+Your Cheatin' Heart, 211
+Rockin' in the Free World, 212
+Sh-Boom, 213
+Do You Believe in Magic, 214
+Jolene, 215
+Boom Boom, 216
+Spoonful, 217
+Walk Away Renee, 218
+Walk on the Wild Side, 219
+Oh, 220
+Dance to the Music, 221
+Good Times, 222
+Hoochie Coochie Man, 223
+Moondance, 224
+Fire and Rain, 225
+Should I Stay or Should I Go, 226
+Mannish Boy, 227
+Just Like a Woman, 228
+Sexual Healing, 229
+Only the Lonely, 230
+We Gotta Get Out of This Place, 231
+I'll Feel a Whole Lot Better, 232
+I Got a Woman, 233
+Everyday, 234
+Planet Rock, 235
+I Fall to Pieces, 236
+The Wanderer, 237
+Son of a Preacher Man, 238
+Stand!, 239
+Rocket Man, 240
+Love Shack, 241
+Gimme Some Lovin', 242
+The Night They Drove Old Dixie Down, 243
+(Your Love Keeps Lifting Me) Higher and Higher, 244
+Hot Fun in the Summertime, 245
+Rappers Delight, 246
+Chain of Fools, 247
+Paranoid, 248
+Mack the Knife, 249
+Money Honey, 250
+All the Young Dudes, 251
+Highway to Hell, 252
+Heart of Glass, 253
+Paranoid Android, 254
+Wild Thing, 255
+I Can See for Miles, 256
+Hallelujah, 257
+Oh, 258
+Higher Ground, 259
+Ooo Baby Baby, 260
+He's a Rebel, 261
+Sail Away, 262
+Tighten Up, 263
+Walking in the Rain, 264
+Personality Crisis, 265
+Sunday Bloody Sunday, 266
+Roadrunner, 267
+He Stopped Loving Her Today, 268
+Sloop John B, 269
+Sweet Little Sixteen, 270
+Something, 271
+Somebody to Love, 272
+Born in the U.S.A., 273
+I'll Take You There, 274
+Ziggy Stardust, 275
+Pictures of You, 276
+Chapel of Love, 277
+Ain't No Sunshine, 278
+You Are the Sunshine of My Life, 279
+Help Me, 280
+Call Me, 281
+(What's So Funny 'Bout) Peace Love and Understanding?, 282
+Attractions, 283
+Smoke Stack Lightning, 284
+Summer Babe, 285
+Walk This Way, 286
+Money (That's What I Want), 287
+Can't Buy Me Love, 288
+Stan, 289
+She's Not There, 290
+Train in Vain, 291
+Tired of Being Alone, 292
+Black Dog, 293
+Street Fighting Man, 294
+Get Up, 295
+Heart of Gold, 296
+One Way or Another, 297
+Sign 'O' the Times, 298
+Like a Prayer, 299
+Do Ya Think I'm Sexy?, 300
+Blue Eyes Crying In the Rain, 301
+Ruby Tuesday, 302
+With a Little Help From My Friends, 303
+Say It Loud -- I'm Black and Proud, 304
+That's Entertainment, 305
+Why Do Fools Fall In Love, 306
+Lonely Teardrops, 307
+What's Love Got To Do With It, 308
+Iron Man, 309
+Wake Up Little Susie, 310
+In Dreams, 311
+I Put a Spell on You, 312
+Comfortably Numb, 313
+Don't Let Me Be Misunderstood, 314
+Wish You Were Here, 315
+Many Rivers to Cross, 316
+Alison, 317
+School's Out, 318
+Heartbreaker, 319
+Cortez the Killer, 320
+Fight the Power, 321
+Dancing Barefoot, 322
+Baby Love, 323
+Good Lovin', 324
+Get Up (I Feel Like Being a) Sex Machine, 325
+For Your Precious Love, 326
+The End, 327
+That's the Way of the World, 328
+We Will Rock You, 329
+I Can't Make You Love Me, 330
+Subterranean Homesick Blues, 331
+Spirit in the Sky, 332
+Wild Horses, 333
+Sweet Jane, 334
+Walk This Way, 335
+Beat It, 336
+Maybe I'm Amazed, 337
+You Keep Me Hanging On, 338
+Baba O'Riley, 339
+The Harder They Come, 340
+Runaround Sue, 341
+Jim Dandy, 342
+Piece of My Heart, 343
+La Bamba, 344
+California Love, 345
+Candle in the Wind, 346
+That Lady (Part 1 and 2), 347
+Spanish Harlem, 348
+The Locomotion, 349
+The Great Pretender, 350
+All Shook Up, 351
+Tears in Heaven, 352
+Watching the Detectives, 353
+Bad Moon Rising, 354
+Sweet Dreams (Are Made of This), 355
+Little Wing, 356
+Nowhere to Run, 357
+Got My Mojo Working, 358
+Killing Me Softly With His Song, 359
+Complete Control, 360
+All You Need Is Love, 361
+The Letter, 362
+Highway 61 Revisited, 363
+Unchained Melody, 364
+How Deep Is Your Love, 365
+White Room, 366
+Personal Jesus, 367
+I'm A Man, 368
+The Wind Cries Mary, 369
+I Can't Explain, 370
+Marquee Moon, 371
+Wonderful World, 372
+Brown Eyed Handsome Man, 373
+Another Brick in the Wall Part 2, 374
+Fake Plastic Trees, 375
+Hit the Road Jack, 376
+Pride (In The Name of Love), 377
+Radio Free Europe, 378
+Goodbye Yellow Brick Road, 379
+Tell It Like It Is, 380
+Bitter Sweet Symphony, 381
+Whipping Post, 382
+Ticket to Ride, 383
+Ohio, 384
+I Know You Got Soul, 385
+Tiny Dancer, 386
+Roxanne, 387
+Just My Imagination, 388
+Baby I Need Your Loving, 389
+Band of Gold, 390
+O-o-h Child, 391
+Summer in the City, 392
+Can't Help Falling in Love, 393
+Remember (Walkin' in the Sand), 394
+Thirteen, 395
+(Don't Fear) the Reaper, 396
+Sweet Home Alabama, 397
+Enter Sandman, 398
+Kicks, 399
+Tonight's the Night, 400
+Thank You (Falettinme Be Mice Elf Agin), 401
+C'mon Everybody, 402
+Visions of Johanna, 403
+We've Only Just Begun, 404
+I Believe I Can Fly, 405
+In Bloom, 406
+Sweet Emotion, 407
+Crossroads, 408
+Monkey Gone to Heaven, 409
+I Feel Love, 410
+Ode to Billie Joe, 411
+The Girl Can't Help It, 412
+Young Blood, 413
+I Can't Help Myself, 414
+The Boys of Summer, 415
+Fuck tha Police, 416
+Suite: Judy Blue Eyes, 417
+Nuthin' But a 'G' Thang, 418
+It's Your Thing, 419
+Piano Man, 420
+Lola, 421
+Blue Suede Shoes, 422
+Tumbling Dice, 423
+William, 424
+Smoke on the Water, 425
+New Year's Day, 426
+Devil With a Blue Dress On/Good Golly Miss Molly, 427
+Wheels, 428
+Everybody Needs Somebody to Love, 429
+White Man in Hammersmith Palais, 430
+Ain't It a Shame, 431
+Midnight Train to Georgia, 432
+Ramble On, 433
+Mustang Sally, 434
+Beast of Burden, 435
+Alone Again Or, 436
+Love Me Tender, 437
+I Wanna Be Your Dog, 438
+Pink Houses, 439
+Push It, 440
+Come Go With Me, 441
+Keep a Knockin', 442
+I Shot the Sheriff, 443
+I Got You Babe, 444
+Come As You Are, 445
+Pressure Drop, 446
+Leader of the Pack, 447
+Heroin, 448
+Penny Lane, 449
+By the Time I Get to Phoenix, 450
+The Twist, 451
+Cupid, 452
+Paradise City, 453
+My Sweet Lord, 454
+All Apologies, 455
+Stagger Lee, 456
+Sheena Is a Punk Rocker, 457
+Soul Man, 458
+Rollin' Stone, 459
+One Fine Day, 460
+Kiss, 461
+Respect Yourself, 462
+Rain, 463
+Standing in the Shadows of Love, 464
+Surrender, 465
+Runaway, 466
+Welcome to the Jungle, 467
+Search and Destroy, 468
+It's Too Late, 469
+Free Man in Paris, 470
+On the Road Again, 471
+Where Did Our Love Go, 472
+Do Right Woman, 473
+One Nation Under a Groove, 474
+Sabotage, 475
+I Want to Know What Love Is, 476
+Super Freak, 477
+White Rabbit, 478
+Lady Marmalade, 479
+Into the Mystic, 480
+Young Americans, 481
+I'm Eighteen, 482
+Just Like Heaven, 483
+I Love Rock 'N Roll, 484
+Graceland, 485
+How Soon Is Now?, 486
+Under the Boardwalk, 487
+Rhiannon (Will You Ever Win), 488
+I Will Survive, 489
+Brown Sugar, 490
+You Don't Have to Say You Love Me, 491
+Running on Empty, 492
+Then He Kissed Me, 493
+Desperado, 494
+Shop Around, 495
+Miss You, 496
+Buddy Holly, 497
+Rainy Night in Georgia, 498
+The Boys Are Back in Town, 499
+More Than a Feeling, 500
