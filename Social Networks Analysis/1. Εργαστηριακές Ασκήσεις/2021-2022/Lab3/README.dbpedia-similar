@@ -1,0 +1,74 @@
+Similarities (DBpedia) network, part of the Koblenz Network Collection
+===========================================================================
+
+This directory contains the TSV and related files of the dbpedia-similar network: This is the similarity graph from DBpedia. It contains the "similar to" links between pages of Wikipedia. The network is undirected and does not contain multiple edges. The "similar to" relationship was removed from DBpedia at a specific version. Thus, this dataset will not be updated with new versions of DBpedia. The edges correspond to the <http://dbpedia.org/property/similar> relationship type in DBpedia.
+
+
+More information about the network is provided here: 
+http://konect.cc/networks/dbpedia-similar
+
+Files: 
+    meta.dbpedia-similar -- Metadata about the network 
+    out.dbpedia-similar -- The adjacency matrix of the network in whitespace-separated values format, with one edge per line
+      The meaning of the columns in out.dbpedia-similar are: 
+        First column: ID of from node 
+        Second column: ID of to node
+        Third column (if present): weight or multiplicity of edge
+        Fourth column (if present):  timestamp of edges Unix time
+
+
+Use the following References for citation:
+
+@MISC{konect:2017:dbpedia-similar,
+    title = {Similarities (DBpedia) network dataset -- {KONECT}},
+    month = nov,
+    year = {2017},
+    url = {http://konect.cc/networks/dbpedia-similar}
+}
+
+@inproceedings{konect:dbpedia2,
+        author = {Sören Auer and Christian Bizer and Georgi Kobilarov
+                  and Jens Lehmann and Richard Cyganiak and Zachary
+                  Ives},
+        title = {{DBpedia}: A Nucleus for a Web of Open Data },
+        booktitle = {Proc. Int. Semant. Web Conf.},    
+        pages = {722--735},
+        year = {2008},
+}
+
+@inproceedings{konect:dbpedia2,
+        author = {Sören Auer and Christian Bizer and Georgi Kobilarov
+                  and Jens Lehmann and Richard Cyganiak and Zachary
+                  Ives},
+        title = {{DBpedia}: A Nucleus for a Web of Open Data },
+        booktitle = {Proc. Int. Semant. Web Conf.},    
+        pages = {722--735},
+        year = {2008},
+}
+
+
+@inproceedings{konect,
+	title = {{KONECT} -- {The} {Koblenz} {Network} {Collection}},
+	author = {Jérôme Kunegis},
+	year = {2013},
+	booktitle = {Proc. Int. Conf. on World Wide Web Companion},
+	pages = {1343--1350},
+	url = {http://dl.acm.org/citation.cfm?id=2488173},
+	url_presentation = {https://www.slideshare.net/kunegis/presentationwow},
+	url_web = {http://konect.cc/},
+	url_citations = {https://scholar.google.com/scholar?cites=7174338004474749050},
+}
+
+@inproceedings{konect,
+	title = {{KONECT} -- {The} {Koblenz} {Network} {Collection}},
+	author = {Jérôme Kunegis},
+	year = {2013},
+	booktitle = {Proc. Int. Conf. on World Wide Web Companion},
+	pages = {1343--1350},
+	url = {http://dl.acm.org/citation.cfm?id=2488173},
+	url_presentation = {https://www.slideshare.net/kunegis/presentationwow},
+	url_web = {http://konect.cc/},
+	url_citations = {https://scholar.google.com/scholar?cites=7174338004474749050},
+}
+
+
